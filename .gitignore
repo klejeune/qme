@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/server/QuantifyMe/packages
+/src/server/QuantifyMe/QuantifyMe.Console/bin/Debug
+/src/server/QuantifyMe/QuantifyMe.Console/obj/Debug
+/src/server/QuantifyMe/QuantifyMe.Core/bin/Debug
+/src/server/QuantifyMe/QuantifyMe.Core/obj/Debug
+/src/server/QuantifyMe/QuantifyMe.Web/bin
+/src/server/QuantifyMe/QuantifyMe.Web/obj/Debug
+/src/server/QuantifyMe/QuantifyMe.v12.suo

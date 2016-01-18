@@ -1,0 +1,21 @@
+Scrobble realtime track
+Scrobble realtime movie
+Scrobble realtime TV Show episode
+
+Scrobble unknown date Track
+Scrobble unknown date Album
+Scrobble unknown date movie
+Scrobble unknown date TV Show episode
+Scrobble unknown date TV Show season
+Scrobble unknown date TV Show entirely
+
+Scrobble realtime beer
+
+
+
+
+
+
+
+
+
